@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1088044538355",
+    "firebase_url": "https://headphoneshop-17437-default-rtdb.firebaseio.com",
+    "project_id": "headphoneshop-17437",
+    "storage_bucket": "headphoneshop-17437.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088044538355:android:7be2db6c161ec8531d9a86",
+        "android_client_info": {
+          "package_name": "com.example.headphones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088044538355-km6nsskl1prh87q29luu1d0shis3k6l0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Y_Hv0SWOzca9RVfHYVOAkFGiG-jhliQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088044538355-km6nsskl1prh87q29luu1d0shis3k6l0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
